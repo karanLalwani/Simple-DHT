@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 14 13:09:06 EDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\klal1\\Dropbox\\UB\\Sem 2\\DS-CSE586\\PA3\\SimpleDht\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
